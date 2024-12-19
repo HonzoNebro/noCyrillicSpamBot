@@ -4,6 +4,8 @@ target/
 !**/src/test/**/target/
 # Ignorar archivos sensibles
 .env
+/.idea/
+.idea
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -38,4 +40,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
